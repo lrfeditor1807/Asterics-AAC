@@ -36,7 +36,7 @@ Use it for:
 
 * **Smart Home control**: directly via HTTP actions or connect with [openHAB](https://www.openhab.org/) or [HomeAssistant](https://www.home-assistant.io/)
 * **Live elements**: display status of the app or external devices
-* **Web radio**: play any radio station - powered by [radio-browser.info](https://www.radio-browser.info)
+* **Web radio**: play any radio station - powered by [radio-browser](https://www.radio-browser.info)
 * **Podcasts**: listen to any podcast - powered by [podcastindex.org]()
 * **YouTube access**: search and play videos directly within the app
 
